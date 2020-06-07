@@ -1,0 +1,29 @@
+{
+  "license1": {
+    "name": "license",
+    "labelName": "License",
+    "value": "API.ME-License: LifeEdition",
+    "style": {
+      "valueFontWeight": "bold"
+    },
+    "colon": true
+  },
+  "date1": {
+    "name": "date1",
+    "labelName": "Valid",
+    "value": "2020-05-01",
+    "style": {
+      "labelFontWeight": "bold"
+    },
+    "colon": true
+  },
+  "date2": {
+    "name": "date2",
+    "labelName": "To",
+    "value": "2020-05-01",
+    "style": {
+      "labelFontWeight": "bold"
+    },
+    "colon": true
+  }
+}
